@@ -1,8 +1,6 @@
-# redis-cluster-client-with-go
-
-<h3 align="center">
+<h2 align="center">
   Golang: Redis cluster client example
-</h3>
+</h2>
 
 First, we will write the Redis cluster layer that will have a function to initialize the Redis cluster client. The Redis cluster client will only be created once and used throughout. In the below code, initialize function will initialize the Redis.
 
